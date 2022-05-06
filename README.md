@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/anushkabhatnagar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anushkabhatnagar" height="30" width="40" title="LinkedIn" /></a>
-<a href="https://stackoverflow.com/users/14817321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14817321" height="30" width="40" title="Stack Overflow"/></a>
+  <a href="https://linkedin.com/in/anushkabhatnagar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anushkabhatnagar" height="30" width="40" title="LinkedIn" target="_blank"/></a>
+<a href="https://stackoverflow.com/users/14817321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14817321" height="30" width="40" title="Stack Overflow" target="_blank"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
