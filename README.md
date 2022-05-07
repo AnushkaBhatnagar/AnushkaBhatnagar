@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hello World! I'm Anushka Bhatnagar</h1>
 <h3 align="center">I'm a Computer Science student from India</h3>
+<p align="center"> I'm passionate about programming and software development. I'm here to learn, work on and contribute to projects.<br></p>
 
+- 💻 I'm a **Microsoft Learn Student Ambassador**
 - 🌱 I’m currently learning **Cloud Computing☁️**
 - 😄 Pronouns: **She/Her**
 
