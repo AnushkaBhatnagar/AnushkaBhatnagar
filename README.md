@@ -10,9 +10,8 @@
 - 🌱 I’m currently learning **Cloud Computing☁️**
 - 😄 Pronouns: **She/Her**
 
-<img src="Images/girlcoding.png" alt="React" height="300px" align=right title="Let's support women in STEM!" alt="image of girl coding"/>
+<!-- <img src="Images/girlcoding.png" alt="React" height="300px" align=right title="Let's support women in STEM!" alt="image of girl coding"/> -->
 
-Socials
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/anushkabhatnagar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anushkabhatnagar" height="30" width="40" title="LinkedIn"/></a>
