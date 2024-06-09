@@ -68,11 +68,11 @@ Socials
 <p>
   
   <a href="https://github.com/anushkabhatnagar#gh-light-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anushkabhatnagar&show_icons=true&locale=en&layout=compact"  alt="anushkabhatnagar"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anushkabhatnagar&show_icons=true&locale=en&layout=compact&theme=default#gh-light-mode-only"  alt="anushkabhatnagar"/>
   </a>
   
   <a href="https://github.com/anushkabhatnagar#gh-dark-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anushkabhatnagar&theme=dark&show_icons=true&locale=en&layout=compact"  alt="anushkabhatnagar"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anushkabhatnagar&show_icons=true&locale=en&layout=compact&theme=dark#gh-dark-mode-only"  alt="anushkabhatnagar"/>
   </a>
   
 </p>
