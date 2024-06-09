@@ -62,9 +62,9 @@
   </a> 
 </p>
 
-<br><br>
+<br>
 
-<div align="center">
+<div>
   <p>
 
    <picture>
@@ -76,7 +76,7 @@
   </p>
 </div>
 
-<div align="center">
+<div>
   <p>
   
   <picture>
