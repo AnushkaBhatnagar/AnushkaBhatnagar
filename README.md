@@ -4,13 +4,13 @@
 
 <h1 align="center">Hello World! I'm Anushka Bhatnagar</h1>
 <h3 align="center">I'm a Computer Science student from India</h3>
-<p align="center"> I'm passionate about programming and software development. I'm here to learn, work on and contribute to projects.<br></p>
+<p align="center"> I'm passionate about software development and information security. Interested in AI, NLP and web development.<br></p>
 
 - 💻 I'm a **Microsoft Learn Student Ambassador**
 - 🌱 I’m currently learning **Cloud Computing☁️**
 - 😄 Pronouns: **She/Her**
 
-<!-- <img src="Images/girlcoding.png" alt="React" height="300px" align=right title="Let's support women in STEM!" alt="image of girl coding"/> -->
+<img src="Images/girlcoding.png" alt="React" height="300px" align=right title="Let's support women in STEM!" alt="image of girl coding"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -62,40 +62,38 @@
   </a> 
 </p>
 
-<br>
+<br><br>
 
-<p>
-  
-  <a href="https://github.com/anushkabhatnagar#gh-light-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anushkabhatnagar&show_icons=true&locale=en&layout=compact&theme=default#gh-light-mode-only"  alt="anushkabhatnagar"/>
-  </a>
-  
-  <a href="https://github.com/anushkabhatnagar#gh-dark-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anushkabhatnagar&show_icons=true&locale=en&layout=compact&theme=dark#gh-dark-mode-only"  alt="anushkabhatnagar"/>
-  </a>
-  
-</p>
+<div align="center">
+  <p>
 
-<p>
-  
-  <a href="https://github.com/anushkabhatnagar#gh-light-mode-only">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=anushkabhatnagar&show_icons=true&locale=en" alt="anushkabhatnagar" />
-  </a>
-  
-  <a href="https://github.com/anushkabhatnagar#gh-dark-mode-only">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=anushkabhatnagar&theme=dark&show_icons=true&locale=en" alt="anushkabhatnagar" />
-  </a>
-  
-</p>
+   <picture>
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=anushkabhatnagar&show_icons=true&locale=en&layout=compact&theme=default">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=anushkabhatnagar&show_icons=true&locale=en&layout=compact&theme=dark">
+      <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=anushkabhatnagar&show_icons=true&locale=en&layout=compact">
+    </picture>
 
-<p>
+  </p>
+</div>
+
+<div align="center">
+  <p>
   
-  <a href="https://github.com/anushkabhatnagar#gh-light-mode-only">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=anushkabhatnagar" alt="anushkabhatnagar" />
-  </a>
+  <picture>
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=anushkabhatnagar&show_icons=true&locale=en">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=anushkabhatnagar&theme=dark&show_icons=true&locale=en">
+      <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=anushkabhatnagar&show_icons=true&locale=en">
+    </picture> 
+    
+  </p>
+
+  <p>
+
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=anushkabhatnagar">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=anushkabhatnagar&theme=dark">
+    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=anushkabhatnagar">
+  </picture>
   
-  <a href="https://github.com/anushkabhatnagar#gh-dark-mode-only">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=anushkabhatnagar&theme=dark" alt="anushkabhatnagar" />
-  </a>
-  
-</p>
+  </p>
+</div>
