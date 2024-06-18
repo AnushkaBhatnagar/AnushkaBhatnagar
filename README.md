@@ -72,7 +72,6 @@
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=anushkabhatnagar&show_icons=true&locale=en&layout=compact&theme=dark">
       <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=anushkabhatnagar&show_icons=true&locale=en&layout=compact">
     </picture>
-
   </p>
 </div>
 
