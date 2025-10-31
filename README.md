@@ -6,7 +6,7 @@
 <h3 align="center">I'm a Computer Science student from India</h3>
 <p align="center"> I'm passionate about software development, interested in AI, NLP and web.<br></p>
 
-<img src="Images/girlcoding.png" alt="React" height="300px" align=right title="Let's support women in STEM!" alt="image of girl coding"/>
+<img src="Images/girlcoding.png" alt="React" height="300px" align=center title="Let's support women in STEM!" alt="image of girl coding"/>
 
 <br>
 
