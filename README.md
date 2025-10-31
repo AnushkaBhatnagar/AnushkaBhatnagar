@@ -6,7 +6,8 @@
 <h3 align="center">I'm a Computer Science student from India</h3>
 <p align="center"> I'm passionate about software development, interested in AI, NLP and web.<br></p>
 
-<img src="Images/girlcoding.png" alt="React" height="300px" align=center title="Let's support women in STEM!" alt="image of girl coding"/>
+<div align="center">
+<img src="Images/girlcoding.png" height="300px" title="Let's support women in STEM!" alt="image of girl coding"/>
 
 <br>
 
@@ -19,6 +20,7 @@
       <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=anushkabhatnagar&show_icons=true&locale=en&layout=compact">
     </picture>
   </p>
+</div>
 </div>
 
 <div>
